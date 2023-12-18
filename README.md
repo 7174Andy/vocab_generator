@@ -1,4 +1,5 @@
 # Vocabulary Quiz Generator
+
 As a software development, I felt obligated to eliminate any tedious burden of work. During my career at KAN Academy, I saw teaching assistants typing vocabulary quizzes one by one. For me, I thought computers can do this job automatically, and this is the motivation to initiate the project.
 
 This program works in Terminal: The user should type the number of words in a single quiz, the name of the source document, and the range in the source document’s vocabulary list.
@@ -6,4 +7,9 @@ This program works in Terminal: The user should type the number of words in a si
 I constructed the automatic process program using Python’s RPA modules to write and read Microsoft Word documents.
 
 This RPA program has decreased the time to create a single set of quizzes (three vocabulary quizzes and their solutions) by 90%
+
+## Warnings
+
+Since I made the program in a Korean private English academy called KAN Academy, there are some Koreans within the code.
+
 ## How to Start?
