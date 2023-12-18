@@ -5,6 +5,8 @@ import random
 from docx.enum.text import WD_LINE_SPACING
 from docx.shared import Inches
 
+# Warning: Since this is a Korean private academy, the titles are in Korean. 
+
 # contain method
 def contain(list, num):
     for y in list:
@@ -92,7 +94,7 @@ elif howManyVocab == 50:
 else:
     print("List not found. \nPlease type the appropriate input.")
 
-# make three tests (단어 시험 + 재시 + 재재시)
+# make three tests (original quiz + retest + re-retest)
 n = 3
 while n > 0:
     # pick random numbers
