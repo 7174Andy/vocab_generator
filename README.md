@@ -11,5 +11,3 @@ This RPA program has decreased the time to create a single set of quizzes (three
 ## Warnings
 
 Since I made the program in a Korean private English academy called KAN Academy, there are some Koreans within the code.
-
-## How to Start?
